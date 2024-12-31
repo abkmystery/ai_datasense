@@ -1,0 +1,4 @@
+api_provider: "openai"  # Supports openai, azure_openai, anthropic, etc.
+api_key: "your_api_key_here"
+api_url: "https://api.openai.com/v1/chat/completions"
+model: "gpt-4"
